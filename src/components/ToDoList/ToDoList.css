@@ -1,0 +1,15 @@
+.input {
+  margin: 30px 0px 0px 30px;
+  background-color: #ffffff;
+  color: #202020;
+  border: 2px solid #e8a22e;
+  border-radius: 5px 0px 0px 5px;
+  padding: 4px;
+}
+.button {
+  background-color: #e8a22e;
+  color: #fff;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  padding: 6px;
+}
